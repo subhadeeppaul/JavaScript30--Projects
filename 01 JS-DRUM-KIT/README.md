@@ -1,4 +1,3 @@
-
 # JavaScript Drum Kit 
 
 ## Things I learned -
@@ -17,5 +16,3 @@
 - We can play audio in JavaScript by just using `.play()`.
 - We use window in JavaScript to capture key that are preseed not document.
 - `audio.currentTime = 0` for rewinding sound. Use to prevent delaying sound. this is pretty important.
-
-
