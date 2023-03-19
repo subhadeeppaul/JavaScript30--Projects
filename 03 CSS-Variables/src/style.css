@@ -4,6 +4,26 @@
   --blur: 10px;
   --border-radius: 10px;
 }
+
+/* made custom scrollbar*/
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #36ade0;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #012a3e8d;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #13293D;
+}
+
 body {
   text-align: center;
   background-image: url('https://images.unsplash.com/photo-1678851168042-cc40b9f93a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80');
