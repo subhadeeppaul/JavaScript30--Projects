@@ -9,4 +9,5 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] Array Cardio Day 1 🕺🏻
 * [x] Flex Panel Gallery 💪
 * [x] Type Ahead ⌨
-
+* [x] Array Cardio Day 2 💃
+ 
