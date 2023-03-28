@@ -15,4 +15,5 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] Hold Shift and Check Checkboxes ✔ 
 * [x] Custom Video Player 📽
 * [x] Key Sequence Detection 🎊 
+* [x] Slide in on Scroll 🤜
  
