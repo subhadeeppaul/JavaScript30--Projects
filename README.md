@@ -23,3 +23,4 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] Adding Up Times with Reduce ➕ 
 * [x] Speech Detection 🗣
 * [x] Geolocation 📌 
+* [x] Follow Along Link Highlighter 🔗 
