@@ -18,4 +18,5 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] Slide in on Scroll 🤜
 * [x] JavaScript References vs Copying 📋 
 * [x] LocalStorage 🏪 
+* [x] Mouse Move Shadow 🐁
  
