@@ -20,4 +20,5 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] LocalStorage 🏪 
 * [x] Mouse Move Shadow 🐁
 * [x] Sort Without Articles 🗃 
+* [x] Adding Up Times with Reduce ➕ 
  
