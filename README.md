@@ -22,4 +22,4 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] Sort Without Articles 🗃 
 * [x] Adding Up Times with Reduce ➕ 
 * [x] Speech Detection 🗣
- 
+* [x] Geolocation 📌 
