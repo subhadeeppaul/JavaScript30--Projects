@@ -19,4 +19,5 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 * [x] JavaScript References vs Copying 📋 
 * [x] LocalStorage 🏪 
 * [x] Mouse Move Shadow 🐁
+* [x] Sort Without Articles 🗃 
  
